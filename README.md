@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VighashvarA
 - 👀 I’m interested in ...Technology and fitness
-- 🌱 I’m currently learning ...Everything which all are discovered still now
+- 🌱 I’m currently learning ...AI 
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
